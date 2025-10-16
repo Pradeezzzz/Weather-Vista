@@ -12,10 +12,6 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 - **Today's Highlights:** Stay informed about key weather highlights, including UV Index, Wind Status, Sunrise & Sunset, Humidity, Visibility, and Air Quality.
 - **Search Functionality:** Easily search for weather updates in any location globally.
 
-## Experience WeatherVista
-
-🌦️ **Explore the WeatherVista Demo: [Click Here](https://wasimtikki120.github.io/WeatherVista-Interactive-Weather-App/)** 🌈
-
 ## Screenshots
 
 ![WeatherVista Screenshot 1](images/WeatherVista%20-%20Interactive%20Weather%20App%201.png)
@@ -33,25 +29,3 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 - Switch between hourly and weekly forecasts for detailed weather information.
 - Explore the highlight cards to learn more about today's weather insights.
 
-
-## License
-
-WeatherVista is licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Feel free to customize and use it in your projects. 
-
-
-## Author
-
-[Mohammad Wasim Tikki](https://github.com/wasimtikki120)
-
-## Contribution
-
-Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTING.md).
-
-## Support
-
-If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App/issues).
-
-## About
-
-WeatherVista is the result of a passion for creating user-friendly applications that empower individuals to make informed decisions. Inspired by a love for technology and the desire to simplify weather information, Mohammad Wasim Tikki set out to develop a weather app that seamlessly integrates accuracy with an engaging user experience. Join us in exploring the world of WeatherVista!
